@@ -92,6 +92,6 @@ let max: Guy = {
 };
 ```
 
-# the typeScript handbook
+# the TypeScript handbook
 
 source: https://www.typescriptlang.org/docs/handbook/intro.html
